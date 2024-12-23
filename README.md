@@ -1,6 +1,4 @@
 # AnvPy
-A powerful IDE for Android that can make apps rich in python and it's modules.
-
 A powerful IDE for Android that integrates python in android, bringing all applications of python to smartphone including computer vision, object detection, standalone game development, standalone app development , PWA, LOGO(turtle) and even more, thus reaching all possibilities. 
 
 # Support
