@@ -9,5 +9,5 @@ Your donations keep a key role on development of AnvPy, because at the end it's 
 # Paypal 
 https://www.paypal.me/pythonforandroid
 
-# NOTE
+# Note
 Move down to release section
