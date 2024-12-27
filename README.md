@@ -1,7 +1,7 @@
 ![alt text](https://github.com/techAnvPy/AnvPy/blob/main/icon.jpg?raw=true)
 
 # AnvPy
-Android Verstile Python<br />
+<br />
 &nbsp;&nbsp;&nbsp;&nbsp; A powerful IDE for Android that integrates python in android, bringing python's capabilities to android smartphones including computer vision, object detection, standalone game development, standalone app development , PWA, LOGO(turtle) and even more, thus reaching all possibilities. 
 
 # Support
