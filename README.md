@@ -15,9 +15,8 @@
 - [x] Python
 - [x] App/Game development
 - [x] Web Application development
-- [x] Code Completions
 - [x] APK/AAB Compilation
-- [x] Auto indentation
+- [x] Mobile based IDE
 - [x] AI/ML Packages
 - [x] Admob integration
 - [x] Built-in anv package
