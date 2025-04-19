@@ -11,7 +11,7 @@
 > It serves as a platform that provides complete application development in Python for mobile devices. Say no to waste money on using Python as a back-end service and use AnvPy for directly integrating Python in your applications. It is now the most efficient way as it requires no early-setup for making applications for any OS and it does not need a specialized PC just from your Android Phone. So, let the coding revolution begin with AnvPy.
 
 ## Features
-<input type="checkbox" disabled checked /> Python
+- [x] Python
 - [x] App/Game development
 - [x] Web Application development
 - [x] Code Completions
@@ -21,3 +21,4 @@
 - [x] Admob integration
 - [x] Built-in anv package
 - [x] Custom deployment options
+- [x] Global anv package
