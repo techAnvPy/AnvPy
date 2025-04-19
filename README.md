@@ -7,4 +7,4 @@
 </p>
 
 # AnvPy
-### Android Versatile Python
+### Android Versatile Python, an IDE on Android for developing Application and games in Python.
