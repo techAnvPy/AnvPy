@@ -22,3 +22,6 @@
 - [x] Built-in anv package
 - [x] Custom deployment options
 - [x] Global anv package
+## AnvPy Community
+- Telegram: https://t.me/andropython
+- Twitter: https://x.com/techAnvPy?t=fzFM-BgM97Lv8vZt9RTgUQ&s=09
