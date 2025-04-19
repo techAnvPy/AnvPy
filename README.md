@@ -29,4 +29,3 @@
 AnvPy is built and maintained by two indie developers who believe in open access and making powerful tools available for everyone — completely free.
 If you find AnvPy helpful or if it saves you time, consider supporting our work! Your donation helps us continue improving AnvPy, adding new features, and keeping it free for all.
 - Paypal: https://www.paypal.com/paypalme/kivywork
-#### Every bit counts and means a lot to us. Thank you!
