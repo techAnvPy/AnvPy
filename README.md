@@ -25,3 +25,6 @@
 ## AnvPy Community
 - Telegram: https://t.me/andropython
 - Twitter: https://x.com/techAnvPy?t=fzFM-BgM97Lv8vZt9RTgUQ&s=09
+## About us
+AnvPy is built and maintained by two indie developers who believe in open access and making powerful tools available for everyone — completely free.
+If you find AnvPy helpful or if it saves you time, consider supporting our work! Your donation helps us continue improving AnvPy, adding new features, and keeping it free for all.
