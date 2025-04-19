@@ -2,7 +2,7 @@
   <img src="https://github.com/techAnvPy/AnvPy/blob/main/icon.jpg?raw=true" width="350" title="hover text">
 </p>
 <p align="center">
-  <a href="[https://your-link-here.com](https://play.google.com/store/apps/details?id=org.python.adp&pcampaignid=web_share)">
+  <a href="https://play.google.com/store/apps/details?id=org.python.adp&pcampaignid=web_share">
     <img src="https://github.com/techAnvPy/AnvPy/blob/main/play.png?raw=true" width="150" title="hover text">
   </a>
 </p>
