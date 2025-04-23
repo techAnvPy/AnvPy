@@ -22,6 +22,9 @@
 - [x] Built-in anv package
 - [x] Custom deployment options
 - [x] Global anv package
+
+## AnvPy CLI
+A command-line interface tool for running and debugging AnvPy projects directly from your PC. Simple commands to launch and edit your projects from Terminal. Download now for [Windows](https://github.com/techAnvPy/AnvPy/releases/download/v3.76/AnvPyInstaller.exe).
 ## AnvPy Community
 - Telegram: https://t.me/andropython
 - Twitter: https://x.com/techAnvPy?t=fzFM-BgM97Lv8vZt9RTgUQ&s=09
