@@ -29,6 +29,7 @@
 
 A command-line interface tool for running and debugging AnvPy projects directly from your PC. Simple commands to launch and edit your projects from Terminal. Download [here](https://github.com/techAnvPy/AnvPy/releases/download/v3.76/AnvPyInstaller.exe).
 
+### usage: anv
 ```makefile
 create:   create a new project
 run:      run your project in debug mode
