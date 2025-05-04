@@ -27,7 +27,7 @@
 > [!NOTE]
 > Available only for windows.
 
-A command-line interface tool for running and debugging AnvPy projects directly from your PC. Simple commands to launch and edit your projects from Terminal. Download [here](https://github.com/techAnvPy/AnvPy/releases/download/v3.76/AnvPyInstaller.exe).
+A command-line interface tool for running and debugging AnvPy projects directly from your PC. Simple commands to launch and edit your projects from Terminal. Download [here](https://github.com/techAnvPy/AnvPy/releases/download/v3.76/AnvPy-CLI.exe).
 
 ### usage: anv
 ```makefile
