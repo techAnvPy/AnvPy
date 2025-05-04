@@ -34,6 +34,7 @@ A command-line interface tool for running and debugging AnvPy projects directly 
 create:   create a new project
 run:      run your project in debug mode
 pause:    Automates back functionality
+logs:     Print all logs from python
 ```
 ```yaml
 --title:  title of your project
